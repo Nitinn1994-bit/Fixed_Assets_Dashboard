@@ -1,4 +1,4 @@
-# Fixed Assets – Power BI Dashboard
+# Fixed_Assets_Dashboard
 
 Executive-ready dashboards to track the fixed-asset lifecycle end-to-end: **beginning balances, acquisitions, depreciation, disposals, and net book value (NBV)** with drill-downs by **month, asset group, and location**.
 
