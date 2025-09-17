@@ -21,13 +21,6 @@ Interactive visuals allow you to explore each KPI in detail, with breakdowns by 
 
 ---
 
-## 🗂 Data Model (high level)
-
-- **Fact tables:** Asset movements (additions/disposals), monthly depreciation
-- **Dimensions:** Date, Asset, Category/Group, Location, Status  
-Star schema optimized for time-series analysis and categorical slicing.
-
----
 
 ## 🛠️ Tech & Skills
 
